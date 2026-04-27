@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { ArrowRight, Download, Github, Linkedin, Mail, Twitter } from "lucide-react";
+import {  Download, Github, Mail } from "lucide-react";
 import TechStackSection from "../TechStackSection/TechStackSection";
 
 export const HeroSection = () => {

@@ -1,5 +1,5 @@
 import { ScrollTimeline } from "../lightswind/scroll-timeline";
-import { Briefcase, Award, Layers, Users, Globe } from "lucide-react";
+import { Award, Layers, Globe } from "lucide-react";
 
 export const CareerTimeline = () => {
   const careerEvents = [

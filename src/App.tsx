@@ -8,9 +8,8 @@ import { ProjectsSection } from "./components/ProjectsSection/ProjectsSection";
 import { EducationSection } from "./components/EducationSection/EducationSection";
 import { CareerTimeline } from "./components/CareerSection/CareerTimeline";
 import TestimonialsSection from "./components/TestimonialsSection/TestimonialsSection";
-import { ContactSection } from "./components/ContactSection/ContactSection";
 import ReactLenis from "lenis/react";
-import { Home, User, GraduationCap, Briefcase, FolderKanban, Send, MessageSquare } from "lucide-react";
+import { Home, User, GraduationCap, Briefcase, FolderKanban, MessageSquare } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 
 function App() {
