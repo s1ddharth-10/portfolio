@@ -112,13 +112,13 @@ export const HeroSection = () => {
               className="w-full aspect-[4/5] object-cover rounded-[1.5rem] filter contrast-125 hover:scale-105 transition-transform duration-700"
             />
             {/* Floating Tags */}
-            <motion.div 
+            {/* <motion.div 
               className="absolute top-6 -left-2 md:-left-6 glass-panel px-4 py-2 rounded-xl text-xs font-semibold shadow-xl"
               animate={{ y: [0, -10, 0] }}
               transition={{ duration: 4, repeat: Infinity, ease: "easeInOut" }}
             >
               React / Next.js
-            </motion.div>
+            </motion.div> */}
             {/* <motion.div 
               className="absolute bottom-10 -right-2 md:-right-4 glass-panel px-4 py-2 rounded-xl text-xs font-semibold shadow-xl"
               animate={{ y: [0, 10, 0] }}
